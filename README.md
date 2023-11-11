@@ -1,11 +1,12 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<img align="right" alt="coderimg" width="400" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">
+<h2>The Future Belongs To Those Who Believe In The Beauty Of Their Dreams</h2>
+<img width="1250" height="350" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif">
+<h1 align="center">Hello There 👋, I'm Lucas</h1>
+<img align="right" alt="coderimg" width="250" height="250" src="https://66.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif">
 
 <h2 align="left"> <img src="https://komarev.com/ghpvc/?username=lucasleow&label=Profile%20views&color=0e75b6&style=flat" alt="lucasleow" /> </h2>
 
 <img align="left" width="80" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
-<h3> I’m currently working on [Python 100 days of Code](https://github.com/LucasLeow/PythonBootCamp) </h3>
+<h3> Currently working on [Python 100 days of Code](https://github.com/LucasLeow/PythonBootCamp) </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasleow&show_icons=true&locale=en&layout=compact" alt="lucasleow" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasleow&show_icons=true&locale=en" alt="lucasleow" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasleow&show_icons=true&locale=en" alt="lucasleow" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasleow&" alt="lucasleow" /></p>
