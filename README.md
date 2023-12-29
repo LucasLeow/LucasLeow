@@ -1,6 +1,5 @@
 <h2>The Future Belongs To Those Who Believe In The Beauty Of Their Dreams</h2>
-<img width="1250" height="350" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif">
-
+<img height="auto" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" style="border-radius:50">
 
 [![](https://visitcount.itsvg.in/api?id=LucasLeow&icon=0&color=0)](https://visitcount.itsvg.in)
 
