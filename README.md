@@ -14,6 +14,11 @@
     <img align="left" height="30" width="30" src="https://miro.medium.com/v2/resize:fit:1280/1*NjTOZloZTcd4NUPIevicNQ.gif"/> 
     &nbsp; [Computer Science Curriculum](https://github.com/LucasLeow/ComputerScience) 
   </li>
+  <br/>
+  <li>
+    <img align="left" height="30" width="30" src="https://t4.ftcdn.net/jpg/03/85/29/69/360_F_385296927_b9V4skbl94TzxL8AiVAMGdpp9hFeZat0.jpg"/>
+    [SDLC](https://github.com/LucasLeow/SoftwareDesignAndArchitecture)
+  </li>
 </ul>
 <br/>
 <h3 align="left">Connect with me:</h3>
