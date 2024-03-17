@@ -24,9 +24,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lucas-l-345205191/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas (jian hoong) leow" height="30" width="40" /></a>
-   &nbsp;
 <a href="https://leetcode.com/LucasLeow/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="leetcode icon" height="30" width="40"/></a>
-
+</p>
+<h3 align="left">Publications: </h3>
+<p align="left">
+  <a href="https://www.mdpi.com/2227-7390/12/4/616" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/computer-vision-1524365-1290740.png" alt="computer vision svg" height="40" width="40"/></a>
 </p>
 <br/>
 
