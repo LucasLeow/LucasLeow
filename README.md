@@ -10,7 +10,6 @@
     &nbsp; [The Complete Javascript Course](https://github.com/LucasLeow/JavascriptBootCamp)
   </li>
   <br/>
-  <br/>
   <li>
     <img align="left" height="30" width="30" src="https://miro.medium.com/v2/resize:fit:1280/1*NjTOZloZTcd4NUPIevicNQ.gif"/> 
     &nbsp; [Computer Science Curriculum](https://github.com/LucasLeow/ComputerScience) 
